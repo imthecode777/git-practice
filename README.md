@@ -1,4 +1,4 @@
-# Project Title
+# git_practice - Git/Github Learning Project
 
 A short and simple project testing the usage of Git/GitHub.
 
