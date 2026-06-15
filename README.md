@@ -7,7 +7,7 @@ A short and simple project testing the usage of Git/GitHub.
 ### Installing
 How to download and set up the project on your computer:
 ```bash
-git clone https://github.com/imthecode777/test
+git clone https://github.com/imthecode777/git-practice
 cd test
 ```
 
